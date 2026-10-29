@@ -1,0 +1,47 @@
+{
+  "train_rows": 1200,
+  "test_rows": 300,
+  "cv_f1_macro_mean": 0.9658,
+  "cv_f1_macro_std": 0.0171,
+  "test_accuracy": 0.96,
+  "test_f1_macro": 0.9599,
+  "per_class": {
+    "environment_issue": {
+      "precision": 0.9495,
+      "recall": 0.9592,
+      "f1": 0.9543
+    },
+    "flaky_test": {
+      "precision": 0.9612,
+      "recall": 0.9802,
+      "f1": 0.9706
+    },
+    "product_bug": {
+      "precision": 0.9694,
+      "recall": 0.9406,
+      "f1": 0.9548
+    }
+  },
+  "labels": [
+    "environment_issue",
+    "flaky_test",
+    "product_bug"
+  ],
+  "confusion_matrix": [
+    [
+      94,
+      2,
+      2
+    ],
+    [
+      1,
+      99,
+      1
+    ],
+    [
+      4,
+      2,
+      95
+    ]
+  ]
+}

@@ -1,0 +1,1501 @@
+text,label
+TimeoutError: connection to db-01 timed out after 28s,environment_issue
+ConnectionRefusedError: could not connect to selenium-grid:8080,environment_issue
+KeyError: 'email' missing from response body for /api/profile,product_bug
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+TypeError: unsupported operand while computing quantity in CartManager.validateUser,product_bug
+WebDriverException: chrome not reachable on selenium-grid,environment_issue
+ValueError: invalid value for user_id in test_apply_coupon,product_bug
+Expected status 200 but received 400 from /api/orders,product_bug
+ConnectionRefusedError: could not connect to db-01:4444,environment_issue
+"AssertionError: expected True but got 'error', passed on rerun",flaky_test
+ValueError: invalid value for email in test_checkout_flow,product_bug
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+AssertionError: expected 'active' but got 'error' in test_login,product_bug
+"AssertionError: user_id should be 100.00, found None",product_bug
+Database connection pool exhausted on selenium-grid after 70 attempts,environment_issue
+KeyError: 'user_id' missing from response body for /api/profile,product_bug
+TimeoutError waiting for /api/profile response after 41s,flaky_test
+Database connection pool exhausted on db-01 after 16 attempts,environment_issue
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+DNS resolution failed for ci-runner-3,environment_issue
+KeyError: 'total' missing from response body for /api/profile,product_bug
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+"TimeoutError: element .nav-menu not clickable after 114s, passed on retry",flaky_test
+AssertionError: expected 'active' but got False in test_checkout_flow,product_bug
+TimeoutError: connection to selenium-grid timed out after 23s,environment_issue
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+KeyError: 'user_id' missing from response body for /api/cart,product_bug
+"AssertionError: expected True but got None, passed on rerun",flaky_test
+"TimeoutError: element #checkout-btn not clickable after 109s, passed on retry",flaky_test
+TimeoutError waiting for /api/cart response after 73s,flaky_test
+ConnectionRefusedError: could not connect to redis-cache:4444,environment_issue
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,product_bug
+Intermittent failure in test_apply_coupon: race condition waiting for .modal-close,flaky_test
+HTTP 503 Service Unavailable from redis-cache,environment_issue
+DNS resolution failed for ci-runner-3,environment_issue
+NullPointerException at PriceCalculator.validateUser(line 8),product_bug
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+WebDriverException: chrome not reachable on db-01,environment_issue
+ConnectionRefusedError: could not connect to ci-runner-3:6379,environment_issue
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+ConnectionRefusedError: could not connect to selenium-grid:6379,environment_issue
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+TypeError: unsupported operand while computing user_id in CartManager.validateUser,product_bug
+DNS resolution failed for ci-runner-3,environment_issue
+Expected status 200 but received 400 from /api/cart,product_bug
+WebDriverException: chrome not reachable on staging-api,environment_issue
+HTTP 503 Service Unavailable from staging-api,environment_issue
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+NullPointerException at OrderService.calculateTotal(line 62),product_bug
+AssertionError: expected 'active' but got 99.99 in test_login,product_bug
+"AssertionError: currency should be True, found 99.99",product_bug
+ConnectionRefusedError: could not connect to staging-api:5432,environment_issue
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+WebDriverException: chrome not reachable on staging-api,environment_issue
+DNS resolution failed for staging-api,environment_issue
+"TimeoutError: element .modal-close not clickable after 84s, passed on retry",flaky_test
+"AssertionError: expected True but got 99.99, passed on rerun",flaky_test
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+"TimeoutError: element #checkout-btn not clickable after 35s, passed on retry",flaky_test
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+NullPointerException at OrderService.validateUser(line 75),product_bug
+"AssertionError: expected 100.00 but got False, passed on rerun",flaky_test
+TypeError: unsupported operand while computing quantity in PriceCalculator.calculateTotal,product_bug
+Expected status 200 but received 400 from /api/orders,product_bug
+TimeoutError: connection to redis-cache timed out after 96s,environment_issue
+"AssertionError: quantity should be 100.00, found 0",product_bug
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+TimeoutError waiting for /api/payments response after 33s,flaky_test
+Intermittent failure in test_checkout_flow: race condition waiting for #search-box,flaky_test
+ConnectionRefusedError: could not connect to redis-cache:4444,environment_issue
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+NullPointerException at PriceCalculator.validateUser(line 60),product_bug
+KeyError: 'status' missing from response body for /api/orders,product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+NullPointerException at CartManager.buildResponse(line 86),product_bug
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+ValueError: invalid value for currency in test_apply_coupon,product_bug
+ConnectionRefusedError: could not connect to selenium-grid:5432,environment_issue
+ConnectionRefusedError: could not connect to selenium-grid:5432,environment_issue
+HTTP 503 Service Unavailable from ci-runner-3,environment_issue
+Intermittent failure in test_apply_coupon: race condition waiting for .nav-menu,flaky_test
+Database connection pool exhausted on db-01 after 68 attempts,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+ValueError: invalid value for quantity in test_checkout_flow,product_bug
+HTTP 503 Service Unavailable from redis-cache,environment_issue
+ConnectionRefusedError: could not connect to redis-cache:6379,environment_issue
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+"NoSuchElementException: #search-box not found yet, animation still running",flaky_test
+Database connection pool exhausted on redis-cache after 99 attempts,environment_issue
+TimeoutError waiting for /api/profile response after 51s,flaky_test
+TypeError: unsupported operand while computing email in PriceCalculator.validateUser,product_bug
+Expected status 200 but received 400 from /api/orders,product_bug
+"AssertionError: currency should be True, found 'error'",product_bug
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+DNS resolution failed for db-01,environment_issue
+"AssertionError: currency should be True, found False",product_bug
+Expected status 200 but received 400 from /api/orders,product_bug
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+"AssertionError: expected 'active' but got 'error', passed on rerun",flaky_test
+"AssertionError: expected True but got 'error', passed on rerun",flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for .nav-menu,flaky_test
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+ValueError: invalid value for user_id in test_login,product_bug
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+"TimeoutError: element .nav-menu not clickable after 41s, passed on retry",flaky_test
+HTTP 503 Service Unavailable from selenium-grid,environment_issue
+TypeError: unsupported operand while computing total in PriceCalculator.buildResponse,product_bug
+ConnectionRefusedError: could not connect to ci-runner-3:5432,environment_issue
+HTTP 503 Service Unavailable from redis-cache,environment_issue
+"TimeoutError: element #submit not clickable after 44s, passed on retry",flaky_test
+Expected status 200 but received 400 from /api/login,product_bug
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+"NoSuchElementException: #search-box not found yet, animation still running",flaky_test
+HTTP 500 Internal Server Error returned by /api/cart,product_bug
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+HTTP 503 Service Unavailable from selenium-grid,environment_issue
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+DNS resolution failed for ci-runner-3,environment_issue
+DNS resolution failed for redis-cache,environment_issue
+"ElementClickInterceptedException: #submit obscured by overlay, second attempt passed",flaky_test
+ValueError: invalid value for user_id in test_checkout_flow,product_bug
+NullPointerException at CartManager.validateUser(line 39),product_bug
+NullPointerException at OrderService.calculateTotal(line 83),product_bug
+Intermittent failure in test_login: race condition waiting for #search-box,flaky_test
+AssertionError: expected 42 but got 99.99 in test_search_results,product_bug
+"AssertionError: expected 'active' but got False, passed on rerun",flaky_test
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+"NoSuchElementException: #search-box not found yet, animation still running",flaky_test
+Database connection pool exhausted on selenium-grid after 52 attempts,environment_issue
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+"ElementClickInterceptedException: #search-box obscured by overlay, second attempt passed",flaky_test
+Database connection pool exhausted on redis-cache after 44 attempts,environment_issue
+Database connection pool exhausted on staging-api after 61 attempts,environment_issue
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+Expected status 200 but received 400 from /api/profile,product_bug
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+"ElementClickInterceptedException: #submit obscured by overlay, second attempt passed",flaky_test
+DNS resolution failed for selenium-grid,environment_issue
+StaleElementReferenceException: element #search-box is no longer attached to the page,flaky_test
+KeyError: 'total' missing from response body for /api/profile,product_bug
+TimeoutError: connection to ci-runner-3 timed out after 43s,environment_issue
+TimeoutError waiting for /api/cart response after 42s,flaky_test
+TimeoutError: connection to db-01 timed out after 43s,environment_issue
+ConnectionRefusedError: could not connect to db-01:8080,environment_issue
+DNS resolution failed for selenium-grid,environment_issue
+Database connection pool exhausted on db-01 after 107 attempts,environment_issue
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+Expected status 200 but received 400 from /api/profile,flaky_test
+TimeoutError: connection to db-01 timed out after 24s,environment_issue
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+TimeoutError: connection to selenium-grid timed out after 87s,environment_issue
+KeyError: 'user_id' missing from response body for /api/login,product_bug
+HTTP 503 Service Unavailable from ci-runner-3,environment_issue
+"TimeoutError: element .nav-menu not clickable after 97s, passed on retry",flaky_test
+KeyError: 'discount' missing from response body for /api/profile,product_bug
+TimeoutError: connection to db-01 timed out after 103s,environment_issue
+WebDriverException: chrome not reachable on db-01,environment_issue
+TypeError: unsupported operand while computing status in UserController.validateUser,product_bug
+Expected status 200 but received 400 from /api/cart,product_bug
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+"AssertionError: expected 42 but got 'error', passed on rerun",environment_issue
+AssertionError: expected True but got None in test_checkout_flow,product_bug
+DNS resolution failed for staging-api,environment_issue
+AssertionError: expected 'ok' but got 99.99 in test_checkout_flow,product_bug
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+ValueError: invalid value for currency in test_apply_coupon,product_bug
+"AssertionError: expected 'ok' but got False, passed on rerun",flaky_test
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+"AssertionError: user_id should be 'ok', found None",product_bug
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+WebDriverException: chrome not reachable on selenium-grid,environment_issue
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+"ElementClickInterceptedException: #search-box obscured by overlay, second attempt passed",flaky_test
+"AssertionError: expected 100.00 but got None, passed on rerun",flaky_test
+NullPointerException at OrderService.buildResponse(line 82),product_bug
+"AssertionError: expected 100.00 but got 99.99, passed on rerun",flaky_test
+TimeoutError: connection to redis-cache timed out after 2s,environment_issue
+KeyError: 'user_id' missing from response body for /api/profile,product_bug
+"AssertionError: status should be 42, found None",product_bug
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+WebDriverException: chrome not reachable on db-01,environment_issue
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+TimeoutError: connection to db-01 timed out after 77s,environment_issue
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+ConnectionRefusedError: could not connect to ci-runner-3:8080,environment_issue
+"AssertionError: discount should be True, found 'error'",product_bug
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+HTTP 500 Internal Server Error returned by /api/cart,product_bug
+NullPointerException at CartManager.validateUser(line 74),product_bug
+TimeoutError: connection to selenium-grid timed out after 51s,environment_issue
+DNS resolution failed for ci-runner-3,product_bug
+Database connection pool exhausted on selenium-grid after 107 attempts,environment_issue
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+Intermittent failure in test_login: race condition waiting for #submit,flaky_test
+WebDriverException: chrome not reachable on selenium-grid,environment_issue
+ValueError: invalid value for quantity in test_checkout_flow,product_bug
+"AssertionError: expected 100.00 but got 0, passed on rerun",flaky_test
+TypeError: unsupported operand while computing discount in OrderService.buildResponse,product_bug
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+"ElementClickInterceptedException: #search-box obscured by overlay, second attempt passed",product_bug
+AssertionError: expected 100.00 but got False in test_search_results,product_bug
+NullPointerException at CartManager.calculateTotal(line 119),product_bug
+"TimeoutError: element #checkout-btn not clickable after 48s, passed on retry",flaky_test
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+"AssertionError: expected 'active' but got 0, passed on rerun",flaky_test
+"AssertionError: expected 42 but got 'error', passed on rerun",flaky_test
+ConnectionRefusedError: could not connect to ci-runner-3:5432,environment_issue
+ValueError: invalid value for currency in test_login,product_bug
+NullPointerException at UserController.calculateTotal(line 94),product_bug
+KeyError: 'email' missing from response body for /api/login,product_bug
+NullPointerException at CartManager.validateUser(line 119),product_bug
+HTTP 503 Service Unavailable from selenium-grid,environment_issue
+StaleElementReferenceException: element #search-box is no longer attached to the page,flaky_test
+ConnectionRefusedError: could not connect to staging-api:8080,environment_issue
+Intermittent failure in test_login: race condition waiting for #submit,flaky_test
+TimeoutError: connection to db-01 timed out after 16s,environment_issue
+"TimeoutError: element #search-box not clickable after 117s, passed on retry",flaky_test
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+TypeError: unsupported operand while computing total in PriceCalculator.buildResponse,product_bug
+"AssertionError: expected 'ok' but got None, passed on rerun",flaky_test
+HTTP 500 Internal Server Error returned by /api/login,product_bug
+HTTP 503 Service Unavailable from redis-cache,product_bug
+KeyError: 'user_id' missing from response body for /api/orders,flaky_test
+ValueError: invalid value for quantity in test_login,product_bug
+Database connection pool exhausted on staging-api after 89 attempts,environment_issue
+AssertionError: expected True but got 99.99 in test_apply_coupon,product_bug
+ValueError: invalid value for quantity in test_login,product_bug
+AssertionError: expected 'ok' but got 99.99 in test_apply_coupon,product_bug
+WebDriverException: chrome not reachable on db-01,environment_issue
+"AssertionError: status should be True, found 'error'",product_bug
+KeyError: 'quantity' missing from response body for /api/payments,product_bug
+"AssertionError: expected 'ok' but got None, passed on rerun",flaky_test
+Expected status 200 but received 400 from /api/profile,product_bug
+Expected status 200 but received 400 from /api/profile,product_bug
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+ConnectionRefusedError: could not connect to selenium-grid:5432,environment_issue
+TypeError: unsupported operand while computing total in OrderService.calculateTotal,product_bug
+"NoSuchElementException: #search-box not found yet, animation still running",flaky_test
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+Database connection pool exhausted on selenium-grid after 113 attempts,environment_issue
+KeyError: 'total' missing from response body for /api/orders,product_bug
+AssertionError: expected 42 but got None in test_login,product_bug
+HTTP 500 Internal Server Error returned by /api/login,product_bug
+ConnectionRefusedError: could not connect to db-01:6379,environment_issue
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+TimeoutError waiting for /api/cart response after 67s,flaky_test
+TypeError: unsupported operand while computing quantity in PriceCalculator.buildResponse,product_bug
+WebDriverException: chrome not reachable on staging-api,environment_issue
+"AssertionError: expected 'active' but got 'error', passed on rerun",flaky_test
+Expected status 200 but received 400 from /api/payments,product_bug
+NullPointerException at CartManager.calculateTotal(line 81),product_bug
+"TimeoutError: element #checkout-btn not clickable after 56s, passed on retry",flaky_test
+Test test_login failed 1 of 5 runs with no code change,product_bug
+ValueError: invalid value for email in test_checkout_flow,product_bug
+HTTP 503 Service Unavailable from selenium-grid,environment_issue
+AssertionError: expected True but got False in test_checkout_flow,product_bug
+AssertionError: expected 'ok' but got 99.99 in test_login,product_bug
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+KeyError: 'total' missing from response body for /api/cart,product_bug
+AssertionError: expected 'ok' but got 'error' in test_search_results,product_bug
+TimeoutError waiting for /api/login response after 109s,flaky_test
+AssertionError: expected 42 but got 0 in test_search_results,product_bug
+TimeoutError waiting for /api/profile response after 117s,flaky_test
+Database connection pool exhausted on db-01 after 57 attempts,environment_issue
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+"TimeoutError: element #search-box not clickable after 110s, passed on retry",flaky_test
+StaleElementReferenceException: element #search-box is no longer attached to the page,flaky_test
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+ValueError: invalid value for currency in test_login,product_bug
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+TimeoutError: connection to selenium-grid timed out after 62s,environment_issue
+NullPointerException at PriceCalculator.applyDiscount(line 44),product_bug
+"AssertionError: expected 42 but got 99.99, passed on rerun",flaky_test
+"AssertionError: expected 42 but got False, passed on rerun",flaky_test
+"AssertionError: expected 'ok' but got 'error', passed on rerun",flaky_test
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+HTTP 503 Service Unavailable from redis-cache,environment_issue
+"AssertionError: quantity should be 42, found 0",product_bug
+"TimeoutError: element #submit not clickable after 71s, passed on retry",flaky_test
+HTTP 503 Service Unavailable from redis-cache,environment_issue
+HTTP 503 Service Unavailable from redis-cache,environment_issue
+WebDriverException: chrome not reachable on staging-api,environment_issue
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+TypeError: unsupported operand while computing email in OrderService.calculateTotal,product_bug
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+ConnectionRefusedError: could not connect to staging-api:5432,environment_issue
+"AssertionError: expected True but got 0, passed on rerun",flaky_test
+AssertionError: expected 'ok' but got False in test_search_results,product_bug
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+TimeoutError: connection to staging-api timed out after 80s,environment_issue
+ValueError: invalid value for status in test_apply_coupon,product_bug
+TypeError: unsupported operand while computing total in UserController.validateUser,product_bug
+TimeoutError: connection to db-01 timed out after 28s,environment_issue
+DNS resolution failed for ci-runner-3,environment_issue
+"TimeoutError: element .modal-close not clickable after 94s, passed on retry",flaky_test
+"TimeoutError: element .nav-menu not clickable after 61s, passed on retry",flaky_test
+AssertionError: expected 'active' but got 'error' in test_search_results,product_bug
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+DNS resolution failed for redis-cache,environment_issue
+"NoSuchElementException: #submit not found yet, animation still running",product_bug
+NullPointerException at UserController.calculateTotal(line 78),product_bug
+"AssertionError: expected 42 but got 99.99, passed on rerun",flaky_test
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+"AssertionError: quantity should be 'ok', found 99.99",product_bug
+Expected status 200 but received 400 from /api/payments,product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+Database connection pool exhausted on staging-api after 16 attempts,environment_issue
+"AssertionError: expected 'ok' but got 0, passed on rerun",flaky_test
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+Expected status 200 but received 400 from /api/payments,product_bug
+"AssertionError: status should be 'active', found 99.99",product_bug
+HTTP 503 Service Unavailable from ci-runner-3,environment_issue
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+KeyError: 'total' missing from response body for /api/login,product_bug
+Expected status 200 but received 400 from /api/payments,product_bug
+DNS resolution failed for db-01,environment_issue
+Expected status 200 but received 400 from /api/cart,product_bug
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+NullPointerException at CartManager.validateUser(line 33),product_bug
+ConnectionRefusedError: could not connect to selenium-grid:4444,environment_issue
+TimeoutError waiting for /api/orders response after 87s,flaky_test
+Database connection pool exhausted on selenium-grid after 11 attempts,environment_issue
+ValueError: invalid value for quantity in test_apply_coupon,product_bug
+NullPointerException at OrderService.calculateTotal(line 71),product_bug
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+Database connection pool exhausted on staging-api after 47 attempts,environment_issue
+HTTP 500 Internal Server Error returned by /api/login,product_bug
+Intermittent failure in test_login: race condition waiting for #search-box,flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for .modal-close,flaky_test
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+NullPointerException at OrderService.applyDiscount(line 28),product_bug
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+HTTP 500 Internal Server Error returned by /api/login,product_bug
+WebDriverException: chrome not reachable on selenium-grid,environment_issue
+KeyError: 'quantity' missing from response body for /api/profile,product_bug
+Database connection pool exhausted on selenium-grid after 46 attempts,environment_issue
+TimeoutError: connection to staging-api timed out after 93s,environment_issue
+Expected status 200 but received 400 from /api/payments,product_bug
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+HTTP 503 Service Unavailable from ci-runner-3,environment_issue
+"AssertionError: email should be True, found 'error'",product_bug
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+Expected status 200 but received 400 from /api/profile,product_bug
+"AssertionError: user_id should be 42, found False",product_bug
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+AssertionError: expected 'active' but got False in test_login,product_bug
+DNS resolution failed for selenium-grid,environment_issue
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+TimeoutError: connection to db-01 timed out after 120s,environment_issue
+AssertionError: expected 100.00 but got 'error' in test_login,product_bug
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+ConnectionRefusedError: could not connect to redis-cache:8080,environment_issue
+WebDriverException: chrome not reachable on selenium-grid,environment_issue
+TypeError: unsupported operand while computing status in UserController.applyDiscount,product_bug
+"AssertionError: expected 100.00 but got 'error', passed on rerun",flaky_test
+"TimeoutError: element #search-box not clickable after 67s, passed on retry",flaky_test
+Database connection pool exhausted on redis-cache after 26 attempts,environment_issue
+DNS resolution failed for ci-runner-3,environment_issue
+Intermittent failure in test_apply_coupon: race condition waiting for .nav-menu,flaky_test
+KeyError: 'status' missing from response body for /api/profile,product_bug
+DNS resolution failed for staging-api,environment_issue
+Intermittent failure in test_login: race condition waiting for #search-box,flaky_test
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+NullPointerException at UserController.buildResponse(line 100),product_bug
+NullPointerException at CartManager.applyDiscount(line 11),product_bug
+"AssertionError: expected True but got False, passed on rerun",product_bug
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+TypeError: unsupported operand while computing currency in OrderService.buildResponse,product_bug
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+"TimeoutError: element #submit not clickable after 42s, passed on retry",flaky_test
+Expected status 200 but received 400 from /api/orders,product_bug
+TypeError: unsupported operand while computing total in CartManager.validateUser,product_bug
+ConnectionRefusedError: could not connect to selenium-grid:5432,environment_issue
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+ConnectionRefusedError: could not connect to selenium-grid:5432,product_bug
+DNS resolution failed for selenium-grid,environment_issue
+"AssertionError: status should be 'active', found None",product_bug
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+HTTP 500 Internal Server Error returned by /api/cart,product_bug
+"NoSuchElementException: #search-box not found yet, animation still running",flaky_test
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+ValueError: invalid value for total in test_login,product_bug
+"AssertionError: expected 42 but got None, passed on rerun",flaky_test
+TimeoutError: connection to staging-api timed out after 74s,environment_issue
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+"AssertionError: status should be 42, found False",product_bug
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+Database connection pool exhausted on redis-cache after 60 attempts,environment_issue
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+Expected status 200 but received 400 from /api/profile,product_bug
+TimeoutError: connection to ci-runner-3 timed out after 9s,environment_issue
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+TimeoutError: connection to redis-cache timed out after 85s,environment_issue
+NullPointerException at PriceCalculator.buildResponse(line 88),product_bug
+TimeoutError waiting for /api/payments response after 116s,flaky_test
+AssertionError: expected True but got None in test_apply_coupon,product_bug
+NullPointerException at CartManager.validateUser(line 2),product_bug
+NullPointerException at PriceCalculator.applyDiscount(line 55),product_bug
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+Expected status 200 but received 400 from /api/profile,product_bug
+TimeoutError: connection to staging-api timed out after 94s,environment_issue
+TimeoutError waiting for /api/payments response after 7s,flaky_test
+"TimeoutError: element .modal-close not clickable after 110s, passed on retry",flaky_test
+TimeoutError: connection to staging-api timed out after 103s,environment_issue
+ValueError: invalid value for currency in test_login,product_bug
+"TimeoutError: element #search-box not clickable after 88s, passed on retry",flaky_test
+TimeoutError waiting for /api/profile response after 118s,flaky_test
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+ValueError: invalid value for currency in test_checkout_flow,product_bug
+DNS resolution failed for db-01,environment_issue
+"AssertionError: expected 'ok' but got 0, passed on rerun",flaky_test
+"TimeoutError: element .nav-menu not clickable after 79s, passed on retry",flaky_test
+Database connection pool exhausted on redis-cache after 10 attempts,environment_issue
+DNS resolution failed for db-01,flaky_test
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+TimeoutError: connection to ci-runner-3 timed out after 85s,environment_issue
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+StaleElementReferenceException: element #search-box is no longer attached to the page,flaky_test
+Expected status 200 but received 400 from /api/payments,product_bug
+KeyError: 'total' missing from response body for /api/orders,product_bug
+WebDriverException: chrome not reachable on staging-api,environment_issue
+"AssertionError: discount should be 'active', found 0",product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+"AssertionError: expected 42 but got 0, passed on rerun",flaky_test
+TimeoutError: connection to selenium-grid timed out after 65s,environment_issue
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+TypeError: unsupported operand while computing currency in CartManager.applyDiscount,product_bug
+Expected status 200 but received 400 from /api/profile,product_bug
+TypeError: unsupported operand while computing user_id in CartManager.applyDiscount,product_bug
+Intermittent failure in test_checkout_flow: race condition waiting for #checkout-btn,flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for #checkout-btn,flaky_test
+TimeoutError waiting for /api/login response after 6s,flaky_test
+"TimeoutError: element #submit not clickable after 94s, passed on retry",flaky_test
+NullPointerException at CartManager.buildResponse(line 60),product_bug
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+WebDriverException: chrome not reachable on staging-api,environment_issue
+"AssertionError: expected True but got 'error', passed on rerun",flaky_test
+TimeoutError waiting for /api/orders response after 91s,flaky_test
+DNS resolution failed for ci-runner-3,environment_issue
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+ConnectionRefusedError: could not connect to redis-cache:4444,environment_issue
+Database connection pool exhausted on selenium-grid after 99 attempts,environment_issue
+ValueError: invalid value for total in test_login,product_bug
+"AssertionError: expected 100.00 but got None, passed on rerun",flaky_test
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+"AssertionError: expected True but got 99.99, passed on rerun",flaky_test
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+TimeoutError: connection to redis-cache timed out after 110s,environment_issue
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+Test test_checkout_flow failed 1 of 5 runs with no code change,flaky_test
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+WebDriverException: chrome not reachable on staging-api,environment_issue
+AssertionError: expected 42 but got False in test_login,product_bug
+"AssertionError: email should be 100.00, found 99.99",product_bug
+HTTP 503 Service Unavailable from selenium-grid,environment_issue
+StaleElementReferenceException: element #search-box is no longer attached to the page,flaky_test
+"AssertionError: discount should be 'active', found 'error'",product_bug
+DNS resolution failed for redis-cache,environment_issue
+"AssertionError: expected True but got 'error', passed on rerun",flaky_test
+Test test_checkout_flow failed 1 of 5 runs with no code change,flaky_test
+TimeoutError waiting for /api/cart response after 108s,flaky_test
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+TimeoutError: connection to db-01 timed out after 26s,environment_issue
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+TimeoutError waiting for /api/orders response after 95s,flaky_test
+Expected status 200 but received 400 from /api/payments,product_bug
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+Expected status 200 but received 400 from /api/profile,product_bug
+HTTP 503 Service Unavailable from db-01,environment_issue
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+ValueError: invalid value for quantity in test_apply_coupon,product_bug
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for #checkout-btn,flaky_test
+"AssertionError: status should be True, found None",product_bug
+DNS resolution failed for ci-runner-3,environment_issue
+Expected status 200 but received 400 from /api/payments,product_bug
+DNS resolution failed for ci-runner-3,environment_issue
+"AssertionError: email should be 42, found 0",product_bug
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+"ElementClickInterceptedException: #search-box obscured by overlay, second attempt passed",flaky_test
+ConnectionRefusedError: could not connect to redis-cache:8080,environment_issue
+TimeoutError waiting for /api/orders response after 111s,flaky_test
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+ValueError: invalid value for quantity in test_apply_coupon,flaky_test
+DNS resolution failed for selenium-grid,environment_issue
+"AssertionError: expected True but got None, passed on rerun",flaky_test
+AssertionError: expected 'ok' but got False in test_login,product_bug
+DNS resolution failed for db-01,environment_issue
+HTTP 500 Internal Server Error returned by /api/login,product_bug
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+"TimeoutError: element #search-box not clickable after 23s, passed on retry",flaky_test
+Database connection pool exhausted on redis-cache after 6 attempts,environment_issue
+TimeoutError waiting for /api/cart response after 63s,flaky_test
+Expected status 200 but received 400 from /api/orders,product_bug
+"TimeoutError: element #search-box not clickable after 12s, passed on retry",flaky_test
+"AssertionError: expected 42 but got False, passed on rerun",flaky_test
+TimeoutError: connection to staging-api timed out after 59s,environment_issue
+Database connection pool exhausted on db-01 after 103 attempts,environment_issue
+"TimeoutError: element #submit not clickable after 3s, passed on retry",flaky_test
+TypeError: unsupported operand while computing quantity in PriceCalculator.validateUser,product_bug
+Intermittent failure in test_search_results: race condition waiting for .nav-menu,flaky_test
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+TimeoutError waiting for /api/cart response after 66s,flaky_test
+Test test_checkout_flow failed 1 of 5 runs with no code change,flaky_test
+TypeError: unsupported operand while computing user_id in PriceCalculator.validateUser,product_bug
+DNS resolution failed for ci-runner-3,environment_issue
+Database connection pool exhausted on ci-runner-3 after 25 attempts,environment_issue
+KeyError: 'user_id' missing from response body for /api/login,product_bug
+NullPointerException at CartManager.validateUser(line 43),environment_issue
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+TypeError: unsupported operand while computing currency in OrderService.buildResponse,product_bug
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+ConnectionRefusedError: could not connect to selenium-grid:5432,environment_issue
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+"AssertionError: total should be 42, found None",product_bug
+Expected status 200 but received 400 from /api/profile,product_bug
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+"AssertionError: status should be 'ok', found None",product_bug
+DNS resolution failed for staging-api,environment_issue
+Expected status 200 but received 400 from /api/login,product_bug
+HTTP 500 Internal Server Error returned by /api/login,product_bug
+TimeoutError waiting for /api/orders response after 104s,flaky_test
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+TimeoutError: connection to redis-cache timed out after 48s,environment_issue
+NullPointerException at OrderService.applyDiscount(line 54),product_bug
+TimeoutError waiting for /api/profile response after 74s,flaky_test
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+DNS resolution failed for selenium-grid,environment_issue
+AssertionError: expected 'active' but got 0 in test_apply_coupon,product_bug
+"TimeoutError: element #submit not clickable after 33s, passed on retry",flaky_test
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+TimeoutError waiting for /api/login response after 8s,flaky_test
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+KeyError: 'currency' missing from response body for /api/login,product_bug
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+TimeoutError: connection to redis-cache timed out after 44s,environment_issue
+Database connection pool exhausted on selenium-grid after 119 attempts,flaky_test
+AssertionError: expected 42 but got 99.99 in test_apply_coupon,product_bug
+"ElementClickInterceptedException: #submit obscured by overlay, second attempt passed",environment_issue
+HTTP 503 Service Unavailable from selenium-grid,environment_issue
+WebDriverException: chrome not reachable on staging-api,environment_issue
+NullPointerException at OrderService.validateUser(line 55),product_bug
+ConnectionRefusedError: could not connect to db-01:8080,environment_issue
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+ValueError: invalid value for email in test_checkout_flow,environment_issue
+TimeoutError: connection to staging-api timed out after 7s,environment_issue
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+ValueError: invalid value for currency in test_checkout_flow,product_bug
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+Expected status 200 but received 400 from /api/login,product_bug
+AssertionError: expected 'active' but got 'error' in test_apply_coupon,product_bug
+"TimeoutError: element #checkout-btn not clickable after 26s, passed on retry",environment_issue
+AssertionError: expected 42 but got 99.99 in test_search_results,product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+WebDriverException: chrome not reachable on selenium-grid,environment_issue
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+"AssertionError: expected 'active' but got None, passed on rerun",flaky_test
+HTTP 503 Service Unavailable from staging-api,environment_issue
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+WebDriverException: chrome not reachable on staging-api,environment_issue
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+Expected status 200 but received 400 from /api/orders,product_bug
+"AssertionError: expected True but got 0, passed on rerun",flaky_test
+DNS resolution failed for selenium-grid,environment_issue
+Intermittent failure in test_login: race condition waiting for #search-box,flaky_test
+"TimeoutError: element .nav-menu not clickable after 48s, passed on retry",flaky_test
+ValueError: invalid value for total in test_apply_coupon,product_bug
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for #search-box,flaky_test
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+ConnectionRefusedError: could not connect to db-01:6379,environment_issue
+HTTP 503 Service Unavailable from redis-cache,environment_issue
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+"NoSuchElementException: #search-box not found yet, animation still running",flaky_test
+StaleElementReferenceException: element #submit is no longer attached to the page,product_bug
+"TimeoutError: element #search-box not clickable after 48s, passed on retry",flaky_test
+"AssertionError: email should be 'ok', found 99.99",product_bug
+TimeoutError: connection to selenium-grid timed out after 14s,environment_issue
+AssertionError: expected 100.00 but got None in test_search_results,product_bug
+TimeoutError waiting for /api/payments response after 119s,flaky_test
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+ConnectionRefusedError: could not connect to selenium-grid:8080,environment_issue
+NullPointerException at UserController.applyDiscount(line 83),product_bug
+TypeError: unsupported operand while computing total in OrderService.applyDiscount,product_bug
+"AssertionError: expected 100.00 but got 'error', passed on rerun",flaky_test
+KeyError: 'user_id' missing from response body for /api/profile,product_bug
+Database connection pool exhausted on staging-api after 55 attempts,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+HTTP 503 Service Unavailable from ci-runner-3,environment_issue
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+ValueError: invalid value for status in test_checkout_flow,product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+TimeoutError waiting for /api/payments response after 22s,flaky_test
+"AssertionError: currency should be 'ok', found 99.99",product_bug
+"AssertionError: discount should be 100.00, found False",product_bug
+TimeoutError: connection to db-01 timed out after 31s,environment_issue
+TimeoutError: connection to db-01 timed out after 67s,environment_issue
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+ValueError: invalid value for email in test_login,product_bug
+Database connection pool exhausted on staging-api after 57 attempts,environment_issue
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+ConnectionRefusedError: could not connect to redis-cache:8080,environment_issue
+KeyError: 'email' missing from response body for /api/profile,product_bug
+TimeoutError: connection to staging-api timed out after 96s,environment_issue
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+ValueError: invalid value for quantity in test_search_results,product_bug
+KeyError: 'email' missing from response body for /api/payments,product_bug
+"AssertionError: expected 'ok' but got False, passed on rerun",flaky_test
+ValueError: invalid value for discount in test_login,product_bug
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+ConnectionRefusedError: could not connect to selenium-grid:8080,environment_issue
+AssertionError: expected 'active' but got False in test_search_results,product_bug
+ValueError: invalid value for total in test_apply_coupon,product_bug
+TypeError: unsupported operand while computing discount in OrderService.calculateTotal,product_bug
+WebDriverException: chrome not reachable on staging-api,environment_issue
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+TimeoutError: connection to db-01 timed out after 74s,environment_issue
+"AssertionError: discount should be True, found None",product_bug
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+Intermittent failure in test_checkout_flow: race condition waiting for .modal-close,flaky_test
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+"AssertionError: quantity should be 42, found False",product_bug
+ValueError: invalid value for status in test_search_results,product_bug
+NullPointerException at PriceCalculator.buildResponse(line 46),product_bug
+DNS resolution failed for db-01,environment_issue
+"AssertionError: email should be 42, found False",product_bug
+TimeoutError: connection to ci-runner-3 timed out after 87s,environment_issue
+WebDriverException: chrome not reachable on staging-api,environment_issue
+Intermittent failure in test_apply_coupon: race condition waiting for #search-box,flaky_test
+ConnectionRefusedError: could not connect to staging-api:5432,product_bug
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for .nav-menu,flaky_test
+ValueError: invalid value for status in test_apply_coupon,product_bug
+NullPointerException at PriceCalculator.applyDiscount(line 65),product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+ConnectionRefusedError: could not connect to db-01:8080,environment_issue
+Intermittent failure in test_login: race condition waiting for .modal-close,flaky_test
+Intermittent failure in test_search_results: race condition waiting for #checkout-btn,flaky_test
+ValueError: invalid value for email in test_search_results,product_bug
+ValueError: invalid value for email in test_search_results,product_bug
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+HTTP 503 Service Unavailable from db-01,environment_issue
+KeyError: 'email' missing from response body for /api/payments,product_bug
+DNS resolution failed for ci-runner-3,environment_issue
+HTTP 500 Internal Server Error returned by /api/login,product_bug
+DNS resolution failed for selenium-grid,environment_issue
+TimeoutError: connection to staging-api timed out after 112s,environment_issue
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+DNS resolution failed for selenium-grid,environment_issue
+TimeoutError: connection to selenium-grid timed out after 75s,environment_issue
+"AssertionError: expected 100.00 but got 0, passed on rerun",flaky_test
+KeyError: 'quantity' missing from response body for /api/login,product_bug
+"AssertionError: user_id should be 100.00, found 0",product_bug
+AssertionError: expected 42 but got 0 in test_search_results,product_bug
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+TypeError: unsupported operand while computing total in CartManager.validateUser,product_bug
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+AssertionError: expected True but got 0 in test_search_results,product_bug
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+WebDriverException: chrome not reachable on db-01,environment_issue
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+"TimeoutError: element .modal-close not clickable after 19s, passed on retry",flaky_test
+AssertionError: expected True but got 99.99 in test_search_results,product_bug
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+DNS resolution failed for selenium-grid,environment_issue
+KeyError: 'discount' missing from response body for /api/payments,product_bug
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+AssertionError: expected 'active' but got 0 in test_apply_coupon,product_bug
+"TimeoutError: element #checkout-btn not clickable after 53s, passed on retry",flaky_test
+TimeoutError: connection to ci-runner-3 timed out after 60s,environment_issue
+TimeoutError: connection to redis-cache timed out after 47s,environment_issue
+"TimeoutError: element .modal-close not clickable after 99s, passed on retry",flaky_test
+TimeoutError: connection to staging-api timed out after 12s,environment_issue
+Database connection pool exhausted on db-01 after 53 attempts,environment_issue
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+ConnectionRefusedError: could not connect to staging-api:8080,environment_issue
+TimeoutError: connection to db-01 timed out after 26s,environment_issue
+ValueError: invalid value for user_id in test_login,product_bug
+"TimeoutError: element #search-box not clickable after 55s, passed on retry",flaky_test
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+"AssertionError: discount should be 100.00, found None",product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+HTTP 503 Service Unavailable from staging-api,environment_issue
+Database connection pool exhausted on ci-runner-3 after 25 attempts,environment_issue
+ConnectionRefusedError: could not connect to redis-cache:5432,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+TimeoutError: connection to ci-runner-3 timed out after 26s,environment_issue
+ValueError: invalid value for discount in test_search_results,product_bug
+Intermittent failure in test_login: race condition waiting for #submit,flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for .modal-close,flaky_test
+"AssertionError: email should be 42, found False",product_bug
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+KeyError: 'total' missing from response body for /api/payments,flaky_test
+Expected status 200 but received 400 from /api/login,product_bug
+StaleElementReferenceException: element #search-box is no longer attached to the page,flaky_test
+NullPointerException at UserController.validateUser(line 77),product_bug
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+"AssertionError: status should be 42, found None",product_bug
+HTTP 500 Internal Server Error returned by /api/cart,product_bug
+DNS resolution failed for ci-runner-3,environment_issue
+DNS resolution failed for staging-api,environment_issue
+Intermittent failure in test_search_results: race condition waiting for .nav-menu,flaky_test
+Expected status 200 but received 400 from /api/payments,product_bug
+TimeoutError: connection to staging-api timed out after 6s,environment_issue
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+ConnectionRefusedError: could not connect to redis-cache:5432,environment_issue
+TimeoutError waiting for /api/cart response after 90s,flaky_test
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+"AssertionError: discount should be 42, found None",product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+WebDriverException: chrome not reachable on staging-api,environment_issue
+WebDriverException: chrome not reachable on selenium-grid,environment_issue
+ValueError: invalid value for quantity in test_apply_coupon,product_bug
+TypeError: unsupported operand while computing status in CartManager.buildResponse,product_bug
+"AssertionError: expected 'active' but got 'error', passed on rerun",flaky_test
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+DNS resolution failed for selenium-grid,environment_issue
+DNS resolution failed for staging-api,environment_issue
+TimeoutError waiting for /api/orders response after 61s,flaky_test
+NullPointerException at OrderService.buildResponse(line 15),product_bug
+HTTP 500 Internal Server Error returned by /api/login,product_bug
+DNS resolution failed for staging-api,environment_issue
+ConnectionRefusedError: could not connect to staging-api:8080,environment_issue
+TypeError: unsupported operand while computing quantity in UserController.validateUser,product_bug
+TimeoutError waiting for /api/payments response after 15s,flaky_test
+"AssertionError: expected 100.00 but got 0, passed on rerun",flaky_test
+"TimeoutError: element #submit not clickable after 85s, passed on retry",flaky_test
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+Intermittent failure in test_search_results: race condition waiting for #search-box,flaky_test
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+Database connection pool exhausted on selenium-grid after 55 attempts,environment_issue
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+"TimeoutError: element #search-box not clickable after 107s, passed on retry",flaky_test
+ValueError: invalid value for discount in test_checkout_flow,product_bug
+Database connection pool exhausted on staging-api after 1 attempts,environment_issue
+"AssertionError: email should be 42, found 0",product_bug
+KeyError: 'discount' missing from response body for /api/payments,product_bug
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+Test test_checkout_flow failed 1 of 5 runs with no code change,environment_issue
+Expected status 200 but received 400 from /api/profile,product_bug
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+AssertionError: expected 'ok' but got 0 in test_login,product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+ValueError: invalid value for user_id in test_apply_coupon,product_bug
+NullPointerException at OrderService.applyDiscount(line 115),environment_issue
+TimeoutError: connection to selenium-grid timed out after 116s,environment_issue
+"AssertionError: quantity should be 100.00, found 99.99",product_bug
+HTTP 503 Service Unavailable from ci-runner-3,environment_issue
+DNS resolution failed for redis-cache,environment_issue
+"TimeoutError: element #submit not clickable after 54s, passed on retry",flaky_test
+TimeoutError: connection to db-01 timed out after 62s,environment_issue
+AssertionError: expected 'ok' but got 'error' in test_checkout_flow,product_bug
+TypeError: unsupported operand while computing total in UserController.applyDiscount,product_bug
+"AssertionError: total should be True, found 'error'",product_bug
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+WebDriverException: chrome not reachable on staging-api,environment_issue
+AssertionError: expected 'active' but got 99.99 in test_login,product_bug
+ValueError: invalid value for total in test_search_results,product_bug
+AssertionError: expected 'active' but got False in test_login,product_bug
+"TimeoutError: element #submit not clickable after 93s, passed on retry",flaky_test
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+NullPointerException at UserController.buildResponse(line 36),product_bug
+DNS resolution failed for staging-api,product_bug
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+TimeoutError waiting for /api/login response after 88s,flaky_test
+"ElementClickInterceptedException: #submit obscured by overlay, second attempt passed",flaky_test
+Expected status 200 but received 400 from /api/login,environment_issue
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+ValueError: invalid value for discount in test_apply_coupon,product_bug
+TypeError: unsupported operand while computing discount in PriceCalculator.validateUser,product_bug
+ValueError: invalid value for total in test_search_results,product_bug
+ValueError: invalid value for total in test_login,product_bug
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+"NoSuchElementException: #search-box not found yet, animation still running",flaky_test
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+ValueError: invalid value for email in test_search_results,product_bug
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+Intermittent failure in test_checkout_flow: race condition waiting for .modal-close,flaky_test
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+TimeoutError: connection to staging-api timed out after 76s,environment_issue
+KeyError: 'total' missing from response body for /api/profile,product_bug
+AssertionError: expected 100.00 but got 'error' in test_search_results,product_bug
+ValueError: invalid value for quantity in test_apply_coupon,product_bug
+StaleElementReferenceException: element #search-box is no longer attached to the page,flaky_test
+TimeoutError: connection to ci-runner-3 timed out after 65s,environment_issue
+"TimeoutError: element #search-box not clickable after 35s, passed on retry",flaky_test
+ValueError: invalid value for user_id in test_search_results,product_bug
+ConnectionRefusedError: could not connect to redis-cache:5432,environment_issue
+PermissionError: cannot read /tmp/report.xml on build agent,product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for #search-box,flaky_test
+Database connection pool exhausted on ci-runner-3 after 3 attempts,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+DNS resolution failed for redis-cache,environment_issue
+Intermittent failure in test_apply_coupon: race condition waiting for .nav-menu,flaky_test
+Database connection pool exhausted on ci-runner-3 after 10 attempts,environment_issue
+NullPointerException at PriceCalculator.buildResponse(line 103),product_bug
+TypeError: unsupported operand while computing status in UserController.validateUser,product_bug
+ValueError: invalid value for status in test_apply_coupon,product_bug
+Expected status 200 but received 400 from /api/login,product_bug
+ValueError: invalid value for status in test_search_results,product_bug
+Intermittent failure in test_login: race condition waiting for #checkout-btn,flaky_test
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+TimeoutError: connection to ci-runner-3 timed out after 108s,environment_issue
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+HTTP 500 Internal Server Error returned by /api/cart,product_bug
+DNS resolution failed for redis-cache,environment_issue
+TimeoutError: connection to selenium-grid timed out after 57s,environment_issue
+ValueError: invalid value for status in test_search_results,product_bug
+Test test_checkout_flow failed 1 of 5 runs with no code change,flaky_test
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+"AssertionError: total should be 42, found 'error'",product_bug
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+Intermittent failure in test_search_results: race condition waiting for .nav-menu,flaky_test
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+DNS resolution failed for selenium-grid,environment_issue
+"AssertionError: expected 100.00 but got False, passed on rerun",flaky_test
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+TimeoutError: connection to ci-runner-3 timed out after 90s,environment_issue
+NullPointerException at UserController.buildResponse(line 59),flaky_test
+NullPointerException at OrderService.applyDiscount(line 72),product_bug
+"TimeoutError: element #search-box not clickable after 91s, passed on retry",flaky_test
+TypeError: unsupported operand while computing discount in PriceCalculator.buildResponse,product_bug
+ConnectionRefusedError: could not connect to staging-api:4444,environment_issue
+AssertionError: expected 42 but got None in test_search_results,product_bug
+"TimeoutError: element #search-box not clickable after 94s, passed on retry",flaky_test
+"TimeoutError: element .modal-close not clickable after 99s, passed on retry",flaky_test
+TimeoutError waiting for /api/profile response after 55s,flaky_test
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+Expected status 200 but received 400 from /api/orders,product_bug
+NullPointerException at PriceCalculator.calculateTotal(line 48),flaky_test
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+Intermittent failure in test_checkout_flow: race condition waiting for #checkout-btn,flaky_test
+DNS resolution failed for ci-runner-3,environment_issue
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+ConnectionRefusedError: could not connect to selenium-grid:8080,environment_issue
+"AssertionError: status should be 100.00, found False",product_bug
+NullPointerException at PriceCalculator.applyDiscount(line 17),product_bug
+"AssertionError: total should be 100.00, found 0",product_bug
+DNS resolution failed for redis-cache,environment_issue
+"AssertionError: expected 42 but got 99.99, passed on rerun",flaky_test
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+Database connection pool exhausted on redis-cache after 112 attempts,environment_issue
+Intermittent failure in test_apply_coupon: race condition waiting for #submit,flaky_test
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+TypeError: unsupported operand while computing email in PriceCalculator.calculateTotal,product_bug
+ValueError: invalid value for quantity in test_checkout_flow,product_bug
+HTTP 503 Service Unavailable from staging-api,environment_issue
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",environment_issue
+HTTP 503 Service Unavailable from staging-api,environment_issue
+HTTP 500 Internal Server Error returned by /api/login,product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+"AssertionError: expected 100.00 but got 99.99, passed on rerun",flaky_test
+KeyError: 'user_id' missing from response body for /api/payments,product_bug
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+WebDriverException: chrome not reachable on staging-api,environment_issue
+KeyError: 'discount' missing from response body for /api/payments,product_bug
+Expected status 200 but received 400 from /api/payments,product_bug
+WebDriverException: chrome not reachable on staging-api,environment_issue
+TimeoutError waiting for /api/cart response after 1s,flaky_test
+Database connection pool exhausted on staging-api after 100 attempts,environment_issue
+KeyError: 'status' missing from response body for /api/cart,product_bug
+"AssertionError: expected 42 but got False, passed on rerun",flaky_test
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+TypeError: unsupported operand while computing user_id in UserController.validateUser,product_bug
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+Intermittent failure in test_checkout_flow: race condition waiting for .modal-close,flaky_test
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+NullPointerException at UserController.calculateTotal(line 65),product_bug
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+ValueError: invalid value for quantity in test_login,product_bug
+ConnectionRefusedError: could not connect to staging-api:6379,environment_issue
+KeyError: 'total' missing from response body for /api/profile,product_bug
+KeyError: 'discount' missing from response body for /api/orders,product_bug
+HTTP 503 Service Unavailable from staging-api,environment_issue
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+KeyError: 'currency' missing from response body for /api/profile,product_bug
+AssertionError: expected 100.00 but got 0 in test_search_results,product_bug
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+ValueError: invalid value for currency in test_login,product_bug
+TimeoutError: connection to selenium-grid timed out after 60s,environment_issue
+DNS resolution failed for redis-cache,environment_issue
+KeyError: 'status' missing from response body for /api/orders,product_bug
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+HTTP 503 Service Unavailable from db-01,environment_issue
+"AssertionError: expected 'active' but got None, passed on rerun",flaky_test
+ValueError: invalid value for discount in test_login,product_bug
+KeyError: 'currency' missing from response body for /api/profile,product_bug
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+KeyError: 'quantity' missing from response body for /api/profile,product_bug
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+Database connection pool exhausted on redis-cache after 6 attempts,environment_issue
+StaleElementReferenceException: element #search-box is no longer attached to the page,flaky_test
+Test test_search_results failed 1 of 5 runs with no code change,environment_issue
+Expected status 200 but received 400 from /api/cart,product_bug
+"AssertionError: status should be 'ok', found 0",product_bug
+TypeError: unsupported operand while computing total in OrderService.validateUser,product_bug
+"ElementClickInterceptedException: #search-box obscured by overlay, second attempt passed",flaky_test
+HTTP 503 Service Unavailable from db-01,environment_issue
+TypeError: unsupported operand while computing user_id in PriceCalculator.validateUser,product_bug
+NullPointerException at CartManager.buildResponse(line 12),product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+KeyError: 'quantity' missing from response body for /api/login,product_bug
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+ValueError: invalid value for email in test_search_results,product_bug
+ValueError: invalid value for user_id in test_apply_coupon,environment_issue
+ConnectionRefusedError: could not connect to staging-api:5432,environment_issue
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+HTTP 503 Service Unavailable from db-01,environment_issue
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+ValueError: invalid value for status in test_login,product_bug
+StaleElementReferenceException: element .modal-close is no longer attached to the page,product_bug
+ValueError: invalid value for email in test_apply_coupon,product_bug
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+HTTP 500 Internal Server Error returned by /api/login,product_bug
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for #search-box,flaky_test
+"AssertionError: expected 100.00 but got 0, passed on rerun",flaky_test
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+AssertionError: expected 'ok' but got 99.99 in test_apply_coupon,product_bug
+"TimeoutError: element .modal-close not clickable after 89s, passed on retry",environment_issue
+TimeoutError waiting for /api/payments response after 82s,flaky_test
+Expected status 200 but received 400 from /api/cart,product_bug
+TypeError: unsupported operand while computing currency in PriceCalculator.buildResponse,environment_issue
+"AssertionError: user_id should be 'ok', found 0",product_bug
+ConnectionRefusedError: could not connect to staging-api:8080,environment_issue
+TimeoutError: connection to ci-runner-3 timed out after 68s,environment_issue
+NullPointerException at CartManager.validateUser(line 19),product_bug
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for #search-box,flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for #checkout-btn,flaky_test
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+"ElementClickInterceptedException: #search-box obscured by overlay, second attempt passed",flaky_test
+TypeError: unsupported operand while computing total in CartManager.validateUser,product_bug
+NullPointerException at OrderService.calculateTotal(line 3),flaky_test
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+TimeoutError waiting for /api/login response after 36s,flaky_test
+"AssertionError: email should be 42, found 99.99",product_bug
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+Test test_checkout_flow failed 1 of 5 runs with no code change,flaky_test
+ValueError: invalid value for currency in test_checkout_flow,product_bug
+"NoSuchElementException: #search-box not found yet, animation still running",environment_issue
+Expected status 200 but received 400 from /api/cart,product_bug
+WebDriverException: chrome not reachable on db-01,environment_issue
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+KeyError: 'user_id' missing from response body for /api/cart,product_bug
+ConnectionRefusedError: could not connect to selenium-grid:6379,environment_issue
+KeyError: 'discount' missing from response body for /api/login,product_bug
+WebDriverException: chrome not reachable on selenium-grid,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+"ElementClickInterceptedException: #search-box obscured by overlay, second attempt passed",flaky_test
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+Intermittent failure in test_apply_coupon: race condition waiting for .nav-menu,flaky_test
+"AssertionError: expected 100.00 but got 'error', passed on rerun",flaky_test
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+ValueError: invalid value for user_id in test_search_results,product_bug
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+TypeError: unsupported operand while computing status in OrderService.calculateTotal,product_bug
+Expected status 200 but received 400 from /api/payments,product_bug
+"AssertionError: expected True but got 0, passed on rerun",flaky_test
+ConnectionRefusedError: could not connect to redis-cache:5432,environment_issue
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+Intermittent failure in test_checkout_flow: race condition waiting for #submit,flaky_test
+NullPointerException at PriceCalculator.calculateTotal(line 9),product_bug
+ConnectionRefusedError: could not connect to staging-api:5432,environment_issue
+DNS resolution failed for selenium-grid,environment_issue
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+KeyError: 'discount' missing from response body for /api/login,product_bug
+Intermittent failure in test_apply_coupon: race condition waiting for #checkout-btn,flaky_test
+"AssertionError: expected 100.00 but got 99.99, passed on rerun",flaky_test
+"TimeoutError: element #checkout-btn not clickable after 95s, passed on retry",flaky_test
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+ConnectionRefusedError: could not connect to selenium-grid:8080,environment_issue
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+"AssertionError: quantity should be 'active', found None",product_bug
+ConnectionRefusedError: could not connect to db-01:4444,environment_issue
+ValueError: invalid value for currency in test_search_results,product_bug
+Expected status 200 but received 400 from /api/profile,product_bug
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+AssertionError: expected True but got 'error' in test_apply_coupon,product_bug
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+ConnectionRefusedError: could not connect to staging-api:6379,environment_issue
+AssertionError: expected 'ok' but got 'error' in test_apply_coupon,product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+Database connection pool exhausted on staging-api after 76 attempts,environment_issue
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+Expected status 200 but received 400 from /api/payments,product_bug
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+KeyError: 'total' missing from response body for /api/orders,product_bug
+Database connection pool exhausted on selenium-grid after 47 attempts,environment_issue
+"TimeoutError: element #submit not clickable after 90s, passed on retry",flaky_test
+"AssertionError: user_id should be 'active', found None",product_bug
+Expected status 200 but received 400 from /api/cart,product_bug
+TypeError: unsupported operand while computing email in OrderService.validateUser,product_bug
+Intermittent failure in test_login: race condition waiting for #checkout-btn,flaky_test
+"AssertionError: email should be 100.00, found False",product_bug
+ValueError: invalid value for total in test_apply_coupon,product_bug
+KeyError: 'status' missing from response body for /api/profile,product_bug
+ConnectionRefusedError: could not connect to staging-api:4444,environment_issue
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+NullPointerException at CartManager.buildResponse(line 93),product_bug
+Intermittent failure in test_apply_coupon: race condition waiting for #checkout-btn,flaky_test
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+TimeoutError: connection to selenium-grid timed out after 109s,environment_issue
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+Intermittent failure in test_checkout_flow: race condition waiting for .modal-close,flaky_test
+NullPointerException at UserController.buildResponse(line 32),product_bug
+KeyError: 'total' missing from response body for /api/login,product_bug
+"NoSuchElementException: #search-box not found yet, animation still running",flaky_test
+Expected status 200 but received 400 from /api/cart,product_bug
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+"TimeoutError: element #search-box not clickable after 63s, passed on retry",flaky_test
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+WebDriverException: chrome not reachable on db-01,environment_issue
+"AssertionError: expected 'active' but got 0, passed on rerun",flaky_test
+AssertionError: expected True but got 0 in test_login,product_bug
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+"TimeoutError: element #checkout-btn not clickable after 111s, passed on retry",flaky_test
+TimeoutError waiting for /api/login response after 1s,flaky_test
+Database connection pool exhausted on ci-runner-3 after 65 attempts,environment_issue
+AssertionError: expected 42 but got 'error' in test_search_results,product_bug
+AssertionError: expected 42 but got 99.99 in test_login,product_bug
+TimeoutError waiting for /api/profile response after 19s,flaky_test
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+HTTP 503 Service Unavailable from ci-runner-3,environment_issue
+Expected status 200 but received 400 from /api/payments,product_bug
+DNS resolution failed for redis-cache,environment_issue
+KeyError: 'total' missing from response body for /api/profile,environment_issue
+KeyError: 'quantity' missing from response body for /api/profile,product_bug
+HTTP 503 Service Unavailable from staging-api,environment_issue
+DNS resolution failed for staging-api,environment_issue
+ValueError: invalid value for user_id in test_apply_coupon,product_bug
+TypeError: unsupported operand while computing total in UserController.calculateTotal,product_bug
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+"AssertionError: discount should be 'ok', found 'error'",product_bug
+NullPointerException at CartManager.validateUser(line 5),product_bug
+AssertionError: expected True but got 'error' in test_search_results,product_bug
+DNS resolution failed for selenium-grid,environment_issue
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+"AssertionError: expected 42 but got 'error', passed on rerun",flaky_test
+"ElementClickInterceptedException: #search-box obscured by overlay, second attempt passed",flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for .nav-menu,flaky_test
+ValueError: invalid value for discount in test_checkout_flow,product_bug
+AssertionError: expected 42 but got 0 in test_checkout_flow,product_bug
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+WebDriverException: chrome not reachable on staging-api,environment_issue
+Expected status 200 but received 400 from /api/payments,flaky_test
+DNS resolution failed for db-01,environment_issue
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+"ElementClickInterceptedException: #submit obscured by overlay, second attempt passed",flaky_test
+DNS resolution failed for selenium-grid,environment_issue
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+Database connection pool exhausted on db-01 after 104 attempts,environment_issue
+"TimeoutError: element #checkout-btn not clickable after 44s, passed on retry",flaky_test
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+"NoSuchElementException: .modal-close not found yet, animation still running",flaky_test
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+HTTP 500 Internal Server Error returned by /api/cart,product_bug
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+NullPointerException at UserController.calculateTotal(line 85),product_bug
+"TimeoutError: element .nav-menu not clickable after 115s, passed on retry",flaky_test
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+TimeoutError: connection to redis-cache timed out after 102s,environment_issue
+Expected status 200 but received 400 from /api/profile,product_bug
+TimeoutError waiting for /api/orders response after 25s,flaky_test
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+NullPointerException at PriceCalculator.applyDiscount(line 50),product_bug
+WebDriverException: chrome not reachable on staging-api,environment_issue
+Expected status 200 but received 400 from /api/profile,flaky_test
+Database connection pool exhausted on selenium-grid after 62 attempts,environment_issue
+AssertionError: expected 42 but got 99.99 in test_search_results,product_bug
+TimeoutError waiting for /api/payments response after 64s,flaky_test
+NullPointerException at OrderService.buildResponse(line 14),product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+"TimeoutError: element .modal-close not clickable after 10s, passed on retry",flaky_test
+KeyError: 'total' missing from response body for /api/profile,product_bug
+StaleElementReferenceException: element #search-box is no longer attached to the page,flaky_test
+"AssertionError: currency should be 'active', found False",product_bug
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+"AssertionError: quantity should be True, found 'error'",product_bug
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+Test test_checkout_flow failed 1 of 5 runs with no code change,flaky_test
+StaleElementReferenceException: element #checkout-btn is no longer attached to the page,flaky_test
+HTTP 503 Service Unavailable from redis-cache,environment_issue
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+AssertionError: expected 42 but got False in test_login,product_bug
+KeyError: 'discount' missing from response body for /api/payments,product_bug
+NullPointerException at CartManager.buildResponse(line 93),product_bug
+ValueError: invalid value for quantity in test_checkout_flow,product_bug
+"AssertionError: user_id should be 'ok', found 0",product_bug
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+"TimeoutError: element .modal-close not clickable after 85s, passed on retry",flaky_test
+TypeError: unsupported operand while computing email in PriceCalculator.buildResponse,product_bug
+Intermittent failure in test_checkout_flow: race condition waiting for .nav-menu,flaky_test
+KeyError: 'discount' missing from response body for /api/payments,product_bug
+"AssertionError: discount should be 100.00, found None",product_bug
+KeyError: 'currency' missing from response body for /api/orders,product_bug
+"AssertionError: expected True but got False, passed on rerun",flaky_test
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+TimeoutError waiting for /api/login response after 11s,flaky_test
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+Intermittent failure in test_apply_coupon: race condition waiting for #checkout-btn,flaky_test
+"AssertionError: user_id should be 'ok', found False",product_bug
+NullPointerException at OrderService.buildResponse(line 13),product_bug
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+ConnectionRefusedError: could not connect to staging-api:4444,environment_issue
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+Test test_checkout_flow failed 1 of 5 runs with no code change,flaky_test
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+TimeoutError waiting for /api/payments response after 48s,flaky_test
+AssertionError: expected 'ok' but got None in test_search_results,product_bug
+Database connection pool exhausted on redis-cache after 114 attempts,environment_issue
+ValueError: invalid value for quantity in test_checkout_flow,product_bug
+WebDriverException: chrome not reachable on staging-api,environment_issue
+Database connection pool exhausted on ci-runner-3 after 72 attempts,environment_issue
+WebDriverException: chrome not reachable on staging-api,environment_issue
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+KeyError: 'currency' missing from response body for /api/cart,product_bug
+TimeoutError waiting for /api/login response after 9s,flaky_test
+TypeError: unsupported operand while computing email in OrderService.calculateTotal,product_bug
+DNS resolution failed for staging-api,environment_issue
+Database connection pool exhausted on staging-api after 77 attempts,environment_issue
+AssertionError: expected 100.00 but got 0 in test_checkout_flow,product_bug
+Database connection pool exhausted on db-01 after 25 attempts,environment_issue
+Intermittent failure in test_apply_coupon: race condition waiting for #checkout-btn,flaky_test
+KeyError: 'email' missing from response body for /api/payments,product_bug
+HTTP 503 Service Unavailable from staging-api,environment_issue
+DNS resolution failed for redis-cache,environment_issue
+TypeError: unsupported operand while computing email in OrderService.buildResponse,product_bug
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+"AssertionError: expected True but got False, passed on rerun",flaky_test
+HTTP 503 Service Unavailable from ci-runner-3,environment_issue
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+HTTP 500 Internal Server Error returned by /api/payments,flaky_test
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+Database connection pool exhausted on selenium-grid after 70 attempts,environment_issue
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,product_bug
+WebDriverException: chrome not reachable on staging-api,product_bug
+HTTP 500 Internal Server Error returned by /api/cart,product_bug
+TimeoutError waiting for /api/login response after 116s,flaky_test
+ValueError: invalid value for status in test_search_results,product_bug
+TypeError: unsupported operand while computing discount in OrderService.applyDiscount,product_bug
+"TimeoutError: element .modal-close not clickable after 29s, passed on retry",environment_issue
+TimeoutError: connection to redis-cache timed out after 107s,environment_issue
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+Intermittent failure in test_checkout_flow: race condition waiting for .nav-menu,flaky_test
+"TimeoutError: element #submit not clickable after 50s, passed on retry",flaky_test
+Expected status 200 but received 400 from /api/login,product_bug
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+NullPointerException at PriceCalculator.validateUser(line 108),product_bug
+NullPointerException at CartManager.calculateTotal(line 20),product_bug
+Intermittent failure in test_login: race condition waiting for #checkout-btn,flaky_test
+KeyError: 'quantity' missing from response body for /api/login,product_bug
+"AssertionError: expected 100.00 but got 0, passed on rerun",flaky_test
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+AssertionError: expected 'active' but got False in test_search_results,product_bug
+Database connection pool exhausted on ci-runner-3 after 62 attempts,environment_issue
+"ElementClickInterceptedException: #search-box obscured by overlay, second attempt passed",flaky_test
+Database connection pool exhausted on db-01 after 9 attempts,environment_issue
+KeyError: 'currency' missing from response body for /api/payments,product_bug
+TypeError: unsupported operand while computing quantity in UserController.applyDiscount,product_bug
+HTTP 503 Service Unavailable from staging-api,environment_issue
+Database connection pool exhausted on selenium-grid after 104 attempts,environment_issue
+StaleElementReferenceException: element #search-box is no longer attached to the page,flaky_test
+Database connection pool exhausted on ci-runner-3 after 4 attempts,environment_issue
+NullPointerException at OrderService.calculateTotal(line 63),product_bug
+Database connection pool exhausted on staging-api after 82 attempts,environment_issue
+AssertionError: expected 42 but got 'error' in test_apply_coupon,product_bug
+KeyError: 'email' missing from response body for /api/login,product_bug
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+TimeoutError: connection to db-01 timed out after 60s,environment_issue
+AssertionError: expected 'ok' but got False in test_login,product_bug
+ConnectionRefusedError: could not connect to ci-runner-3:6379,environment_issue
+"ElementClickInterceptedException: #search-box obscured by overlay, second attempt passed",flaky_test
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+WebDriverException: chrome not reachable on db-01,environment_issue
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+NullPointerException at OrderService.buildResponse(line 17),product_bug
+TimeoutError: connection to selenium-grid timed out after 3s,environment_issue
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+KeyError: 'discount' missing from response body for /api/orders,product_bug
+"AssertionError: email should be 'ok', found 0",product_bug
+ConnectionRefusedError: could not connect to ci-runner-3:5432,environment_issue
+KeyError: 'user_id' missing from response body for /api/profile,product_bug
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+WebDriverException: chrome not reachable on ci-runner-3,environment_issue
+NullPointerException at PriceCalculator.calculateTotal(line 81),product_bug
+"AssertionError: currency should be 'ok', found 99.99",product_bug
+TimeoutError: connection to selenium-grid timed out after 79s,environment_issue
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+Database connection pool exhausted on ci-runner-3 after 66 attempts,environment_issue
+OSError: No space left on device while writing /var/log/app.log,environment_issue
+Database connection pool exhausted on redis-cache after 39 attempts,environment_issue
+"AssertionError: currency should be 100.00, found None",product_bug
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+Database connection pool exhausted on selenium-grid after 46 attempts,environment_issue
+Intermittent failure in test_checkout_flow: race condition waiting for .modal-close,flaky_test
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+"TimeoutError: element #checkout-btn not clickable after 50s, passed on retry",flaky_test
+Intermittent failure in test_login: race condition waiting for #checkout-btn,flaky_test
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+KeyError: 'quantity' missing from response body for /api/login,product_bug
+"AssertionError: expected 42 but got 'error', passed on rerun",flaky_test
+TimeoutError waiting for /api/orders response after 38s,flaky_test
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+"AssertionError: user_id should be 'active', found 'error'",product_bug
+Test test_search_results failed 1 of 5 runs with no code change,flaky_test
+"ElementClickInterceptedException: #submit obscured by overlay, second attempt passed",flaky_test
+"TimeoutError: element #submit not clickable after 41s, passed on retry",flaky_test
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+DNS resolution failed for selenium-grid,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+"NoSuchElementException: #search-box not found yet, animation still running",flaky_test
+TimeoutError waiting for /api/login response after 81s,flaky_test
+HTTP 503 Service Unavailable from selenium-grid,environment_issue
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+"AssertionError: discount should be 'active', found False",product_bug
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+TimeoutError waiting for /api/login response after 98s,flaky_test
+Intermittent failure in test_login: race condition waiting for #search-box,flaky_test
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+TimeoutError waiting for /api/profile response after 20s,flaky_test
+TimeoutError waiting for /api/profile response after 86s,flaky_test
+OSError: No space left on device while writing /var/log/app.log,product_bug
+TypeError: unsupported operand while computing status in CartManager.validateUser,product_bug
+Intermittent failure in test_search_results: race condition waiting for .modal-close,flaky_test
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+Expected status 200 but received 400 from /api/profile,product_bug
+DNS resolution failed for redis-cache,environment_issue
+Expected status 200 but received 400 from /api/profile,product_bug
+TimeoutError waiting for /api/login response after 102s,flaky_test
+Expected status 200 but received 400 from /api/login,product_bug
+AssertionError: expected 42 but got 0 in test_apply_coupon,product_bug
+Database connection pool exhausted on staging-api after 8 attempts,environment_issue
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+TimeoutError waiting for /api/orders response after 1s,flaky_test
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+TypeError: unsupported operand while computing discount in OrderService.buildResponse,product_bug
+DNS resolution failed for db-01,environment_issue
+TypeError: unsupported operand while computing currency in PriceCalculator.calculateTotal,product_bug
+TimeoutError: connection to db-01 timed out after 47s,environment_issue
+Expected status 200 but received 400 from /api/payments,product_bug
+"AssertionError: expected 100.00 but got 'error', passed on rerun",flaky_test
+Expected status 200 but received 400 from /api/orders,product_bug
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+ValueError: invalid value for total in test_checkout_flow,flaky_test
+TypeError: unsupported operand while computing user_id in CartManager.applyDiscount,product_bug
+HTTP 503 Service Unavailable from redis-cache,environment_issue
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+NullPointerException at OrderService.calculateTotal(line 105),product_bug
+"TimeoutError: element #submit not clickable after 62s, passed on retry",flaky_test
+TimeoutError: connection to staging-api timed out after 76s,environment_issue
+TypeError: unsupported operand while computing currency in PriceCalculator.calculateTotal,product_bug
+TimeoutError: connection to db-01 timed out after 24s,environment_issue
+Intermittent failure in test_apply_coupon: race condition waiting for #checkout-btn,flaky_test
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+DNS resolution failed for staging-api,environment_issue
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+DNS resolution failed for db-01,flaky_test
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+OSError: No space left on device while writing /tmp/report.xml,environment_issue
+ConnectionRefusedError: could not connect to selenium-grid:4444,environment_issue
+StaleElementReferenceException: element #search-box is no longer attached to the page,flaky_test
+AssertionError: expected 'ok' but got 99.99 in test_checkout_flow,product_bug
+KeyError: 'currency' missing from response body for /api/payments,product_bug
+OSError: No space left on device while writing /var/log/app.log,flaky_test
+"TimeoutError: element .modal-close not clickable after 6s, passed on retry",flaky_test
+Expected status 200 but received 400 from /api/login,product_bug
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+TypeError: unsupported operand while computing email in OrderService.applyDiscount,product_bug
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+TimeoutError waiting for /api/login response after 46s,flaky_test
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+ConnectionRefusedError: could not connect to redis-cache:6379,environment_issue
+ConnectionRefusedError: could not connect to db-01:8080,environment_issue
+HTTP 503 Service Unavailable from db-01,environment_issue
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+NullPointerException at UserController.applyDiscount(line 85),product_bug
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+AssertionError: expected 42 but got 'error' in test_login,product_bug
+"AssertionError: expected 'ok' but got 0, passed on rerun",flaky_test
+AssertionError: expected 'active' but got False in test_login,product_bug
+NullPointerException at OrderService.applyDiscount(line 101),flaky_test
+DNS resolution failed for selenium-grid,environment_issue
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+WebDriverException: chrome not reachable on staging-api,environment_issue
+TypeError: unsupported operand while computing status in CartManager.validateUser,product_bug
+ConnectionRefusedError: could not connect to redis-cache:8080,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+WebDriverException: chrome not reachable on selenium-grid,environment_issue
+DNS resolution failed for staging-api,environment_issue
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+HTTP 503 Service Unavailable from selenium-grid,environment_issue
+"AssertionError: expected 'ok' but got 0, passed on rerun",flaky_test
+"TimeoutError: element #checkout-btn not clickable after 28s, passed on retry",flaky_test
+Expected status 200 but received 400 from /api/profile,product_bug
+NullPointerException at UserController.applyDiscount(line 105),product_bug
+"AssertionError: expected 100.00 but got False, passed on rerun",flaky_test
+ConnectionRefusedError: could not connect to selenium-grid:8080,environment_issue
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+ValueError: invalid value for quantity in test_login,product_bug
+Intermittent failure in test_checkout_flow: race condition waiting for .nav-menu,flaky_test
+"AssertionError: currency should be 42, found 99.99",product_bug
+Intermittent failure in test_login: race condition waiting for .modal-close,flaky_test
+Intermittent failure in test_apply_coupon: race condition waiting for .modal-close,flaky_test
+ValueError: invalid value for total in test_apply_coupon,product_bug
+"TimeoutError: element #search-box not clickable after 2s, passed on retry",flaky_test
+TypeError: unsupported operand while computing quantity in OrderService.buildResponse,product_bug
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+ConnectionRefusedError: could not connect to staging-api:6379,environment_issue
+HTTP 503 Service Unavailable from selenium-grid,environment_issue
+Database connection pool exhausted on ci-runner-3 after 72 attempts,environment_issue
+"AssertionError: total should be 42, found 99.99",product_bug
+TimeoutError waiting for /api/cart response after 55s,flaky_test
+StaleElementReferenceException: element .nav-menu is no longer attached to the page,flaky_test
+"NoSuchElementException: #submit not found yet, animation still running",environment_issue
+NullPointerException at PriceCalculator.buildResponse(line 73),product_bug
+"TimeoutError: element #submit not clickable after 103s, passed on retry",flaky_test
+NullPointerException at PriceCalculator.validateUser(line 120),product_bug
+DNS resolution failed for staging-api,environment_issue
+NullPointerException at PriceCalculator.validateUser(line 82),product_bug
+"NoSuchElementException: #search-box not found yet, animation still running",flaky_test
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+HTTP 500 Internal Server Error returned by /api/profile,product_bug
+Test test_login failed 1 of 5 runs with no code change,flaky_test
+"NoSuchElementException: #submit not found yet, animation still running",flaky_test
+ValueError: invalid value for currency in test_search_results,product_bug
+"ElementClickInterceptedException: .nav-menu obscured by overlay, second attempt passed",flaky_test
+KeyError: 'currency' missing from response body for /api/profile,product_bug
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+DNS resolution failed for redis-cache,environment_issue
+Expected status 200 but received 400 from /api/payments,product_bug
+AssertionError: expected 42 but got 'error' in test_checkout_flow,product_bug
+ConnectionRefusedError: could not connect to selenium-grid:5432,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+Intermittent failure in test_checkout_flow: race condition waiting for #checkout-btn,flaky_test
+TypeError: unsupported operand while computing email in UserController.applyDiscount,product_bug
+HTTP 500 Internal Server Error returned by /api/payments,product_bug
+DNS resolution failed for ci-runner-3,environment_issue
+Intermittent failure in test_search_results: race condition waiting for .modal-close,flaky_test
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+KeyError: 'total' missing from response body for /api/orders,product_bug
+PermissionError: cannot read /tmp/report.xml on build agent,environment_issue
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+AssertionError: expected 42 but got False in test_login,product_bug
+"TimeoutError: element .nav-menu not clickable after 106s, passed on retry",flaky_test
+NullPointerException at CartManager.buildResponse(line 65),product_bug
+NullPointerException at PriceCalculator.validateUser(line 93),product_bug
+Expected status 200 but received 400 from /api/payments,product_bug
+ConnectionRefusedError: could not connect to redis-cache:5432,environment_issue
+WebDriverException: chrome not reachable on redis-cache,environment_issue
+Expected status 200 but received 400 from /api/login,environment_issue
+NullPointerException at CartManager.applyDiscount(line 70),product_bug
+HTTP 500 Internal Server Error returned by /api/orders,product_bug
+ValueError: invalid value for discount in test_apply_coupon,product_bug
+TypeError: unsupported operand while computing total in UserController.applyDiscount,product_bug
+NullPointerException at UserController.calculateTotal(line 18),environment_issue
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+DNS resolution failed for db-01,environment_issue
+AssertionError: expected 'active' but got False in test_checkout_flow,product_bug
+DNS resolution failed for selenium-grid,product_bug
+HTTP 503 Service Unavailable from staging-api,environment_issue
+Database connection pool exhausted on redis-cache after 96 attempts,environment_issue
+TimeoutError: connection to staging-api timed out after 23s,environment_issue
+AssertionError: expected 'active' but got 'error' in test_search_results,product_bug
+TimeoutError: connection to selenium-grid timed out after 90s,environment_issue
+ConnectionRefusedError: could not connect to db-01:6379,environment_issue
+ValueError: invalid value for user_id in test_login,product_bug
+AssertionError: expected 'active' but got False in test_apply_coupon,product_bug
+Expected status 200 but received 400 from /api/login,product_bug
+ValueError: invalid value for discount in test_apply_coupon,product_bug
+AssertionError: expected 'ok' but got 0 in test_login,product_bug
+TimeoutError: connection to ci-runner-3 timed out after 97s,environment_issue
+"AssertionError: expected 'ok' but got False, passed on rerun",flaky_test
+TimeoutError: connection to selenium-grid timed out after 87s,product_bug
+PermissionError: cannot read /var/log/app.log on build agent,environment_issue
+OSError: No space left on device while writing /builds/artifacts/out.zip,environment_issue
+TimeoutError waiting for /api/payments response after 3s,flaky_test
+Database connection pool exhausted on redis-cache after 25 attempts,environment_issue
+DNS resolution failed for ci-runner-3,environment_issue
+ConnectionRefusedError: could not connect to selenium-grid:8080,environment_issue
+NullPointerException at OrderService.calculateTotal(line 69),product_bug
+StaleElementReferenceException: element .modal-close is no longer attached to the page,flaky_test
+WebDriverException: chrome not reachable on db-01,environment_issue
+"TimeoutError: element .nav-menu not clickable after 117s, passed on retry",flaky_test
+Test test_apply_coupon failed 1 of 5 runs with no code change,flaky_test
+"TimeoutError: element #search-box not clickable after 114s, passed on retry",flaky_test
+KeyError: 'status' missing from response body for /api/cart,product_bug
+PermissionError: cannot read /builds/artifacts/out.zip on build agent,environment_issue
+"AssertionError: expected 'active' but got 99.99, passed on rerun",flaky_test
+DNS resolution failed for ci-runner-3,environment_issue
+"ElementClickInterceptedException: .modal-close obscured by overlay, second attempt passed",flaky_test
+Intermittent failure in test_login: race condition waiting for #submit,flaky_test
+Database connection pool exhausted on selenium-grid after 42 attempts,environment_issue
+"ElementClickInterceptedException: #checkout-btn obscured by overlay, second attempt passed",flaky_test
+StaleElementReferenceException: element #submit is no longer attached to the page,flaky_test
+"NoSuchElementException: .nav-menu not found yet, animation still running",flaky_test
+"NoSuchElementException: #checkout-btn not found yet, animation still running",flaky_test
+TypeError: unsupported operand while computing quantity in PriceCalculator.calculateTotal,product_bug
+TimeoutError: connection to selenium-grid timed out after 88s,environment_issue
